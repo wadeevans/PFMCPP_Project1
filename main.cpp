@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       athlete
+//  action 1:   the athlete runs
+athlete.run();
+//  action 2:   the athlete swims
+athlete.swim();
+//  action 3:   the athlete jumps
+athlete.jump();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       audio effect
+//  action 1:   the audio effect compresses
+audioEffect.compress();
+//  action 2:   the audio effect limits
+audioEffect.limit();
+//  action 3:   the audio effect saturates
+audioEffect.saturate(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       face
+//  action 1:   the face frowns
+face.frown();
+//  action 2:   the face laughs
+face.laugh();
+//  action 3:   the face smiles
+face.smile(); 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       eye
+//  action 1:   the eye closes
+eye.close();
+//  action 2:   the eye opens
+eye.open();
+//  action 3:   the eye blinks
+eye.blink(); 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cat
+//  action 1:   the cat chases a mouse
+cat.chaseMouse();
+//  action 2:   the cat purrs
+cat.purr();
+//  action 3:   the cat pounces
+cat.pounce(); 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       mouse
+//  action 1:   the mouse annoys the cat
+mouse.annoyCat();
+//  action 2:   the mouse eats cheese
+mouse.eatCheese();
+//  action 3:   the mouse runs away from the cat
+mouse.runAwayFromCat();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       mad scientist
+//  action 1:   the mad scientist builds a death ray
+madScientist.buildDeathRay();
+//  action 2:   the mad scientist threatens the world
+madScientist.threatenTheWorld();
+//  action 3:   the mad scientist fails miserably
+madScientist.failMiserably(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       app
+//  action 1:   the app opens a window
+app.openWindow();
+//  action 2:   the app freezes the computer
+app.freezeComputer();
+//  action 3:   the app closes
+app.close(); 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       fish
+//  action 1:   the fish rides a bicycle
+fish.rideBicycle();
+//  action 2:   the fish watches televison
+fish.watchTelevision();
+//  action 3:   the fish swims around the tank
+fish.swimAroundTank(); 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       student
+//  action 1:   the student stares into space
+student.stareIntoSpace();
+//  action 2:   the student loses his notes
+student.loseNotes();
+//  action 3:   the student fails his exam
+student.failExam(); 
 
 
 #endif

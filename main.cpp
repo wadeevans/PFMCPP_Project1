@@ -100,13 +100,13 @@ mouse.eatCheese();
 //  action 3:   the mouse runs away from the cat
 mouse.runAwayFromCat();
 //  7)
-//  Noun:       finger
-//  action 1:   the finger points
-finger.point();
-//  action 2:   the finger touches
-finger.touch();
-//  action 3:   the finger pokes
-finger.poke(); 
+//  Noun:       mad scientist
+//  action 1:   the mad scientist builds a death ray
+madScientist.buildDeathRay();
+//  action 2:   the mad scientist threatens the world
+madScientist.threatenTheWorld();
+//  action 3:   the mad scientist fails miserably
+madScientist.failMiserably(); 
 //  8)
 //  Noun:       app
 //  action 1:   the app opens a window
